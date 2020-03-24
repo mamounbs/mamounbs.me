@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: CooperHewitt-Thin
+font link: https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/
+font author: Chester Jenkins
+font author site: https://vllg.com/
+Slogan Font: officecodepro-light.otf
+
+icon designer: Milky - Digital innovation
+icon designer link: /Milky
+        
+
+fontColor: {"hex":"#FFFFFF"}
+bgColor: {"hex":"#161617"}
+iconColor: {"hex":"#FFFFFF"}
+sloganColor: {"hex":"#8B0404"}
+      
